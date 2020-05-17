@@ -11,5 +11,4 @@ public class HistogramChart implements Chart {
     public void display() {
         System.out.println("显示柱状图!");
     }
-
 }

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <className>
+        com.chapter6_Abstract_Factory_Pattern.SummerSkinFactory
+    </className>
+</config>

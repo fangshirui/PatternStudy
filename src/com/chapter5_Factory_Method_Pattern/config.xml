@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <className>
+        com.chapter5_Factory_Method_Pattern.FileLoggerFactory
+    </className>
+</config>

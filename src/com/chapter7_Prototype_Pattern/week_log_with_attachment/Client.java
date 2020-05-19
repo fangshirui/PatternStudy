@@ -12,7 +12,9 @@ public class Client {
                 + (log_new == log_pre) );
         System.out.println("附件是否相同（是否分配了不同地址) "
                 + (log_new.getAttachment() == log_pre.getAttachment()));
+//        System.out.println(attachment == log_new.getAttachment());
     }
+
 }
 
 // 输出

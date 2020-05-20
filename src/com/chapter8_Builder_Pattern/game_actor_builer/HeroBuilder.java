@@ -1,4 +1,4 @@
-package com.chapter8_builder_pattern.game_actor_builer;
+package com.chapter8_Builder_Pattern.game_actor_builer;
 //英雄角色建造器：具体建造者
 public class HeroBuilder extends ActorBuilder {
 

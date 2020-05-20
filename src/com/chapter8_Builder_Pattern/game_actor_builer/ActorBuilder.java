@@ -1,4 +1,4 @@
-package com.chapter8_builder_pattern.game_actor_builer;
+package com.chapter8_Builder_Pattern.game_actor_builer;
 // 抽象建造者
 abstract class ActorBuilder {
     protected Actor actor = new Actor();

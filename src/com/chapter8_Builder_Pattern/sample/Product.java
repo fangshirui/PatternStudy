@@ -1,4 +1,4 @@
-package com.chapter8_builder_pattern.sample;
+package com.chapter8_Builder_Pattern.sample;
 
 public class Product {
     private String partA;

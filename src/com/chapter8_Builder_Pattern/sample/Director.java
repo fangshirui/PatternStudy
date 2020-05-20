@@ -1,5 +1,6 @@
-package com.chapter8_builder_pattern.sample;
+package com.chapter8_Builder_Pattern.sample;
 
+//导演类
 public class Director {
     private Builder builder;
     public Director(Builder builder){
@@ -17,5 +18,4 @@ public class Director {
 
         return  builder.getResult();
     }
-
 }

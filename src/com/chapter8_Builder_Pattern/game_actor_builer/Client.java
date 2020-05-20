@@ -1,4 +1,4 @@
-package com.chapter8_builder_pattern.game_actor_builer;
+package com.chapter8_Builder_Pattern.game_actor_builer;
 
 public class Client {
     public static void main(String[] args) {
